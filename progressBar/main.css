@@ -1,13 +1,4 @@
-/* Landing Page 
------------------*/
-.container-full {
-    margin: 0 auto;
-    width: 100%;
-    min-height:100%;
-    color:#000;
-    overflow:hidden;
-}
-/* Preloader with Bootstrap Progress Bar
+/* Preloader con barra de bootstrap
 -----------------------------------------------*/
 .loader {
     position: fixed;
